@@ -1,0 +1,7 @@
+.logo_symbol_1, .logo_symbol_4 {
+    transform: rotate(45deg);
+}
+
+body {
+    background-color: rgb(55 65 81 / var(--tw-bg-opacity));
+}
